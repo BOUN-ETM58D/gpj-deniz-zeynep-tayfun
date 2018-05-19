@@ -5,3 +5,7 @@
 ## Assignment 2 (May 2)
 
 [Here](https://deniz-tayfun-zeynep-berahan.shinyapps.io/shiny_homework1/) is our Shiny Application.
+
+## Assignment 2 (May 2)
+
+[Here](https://deniz-tayfun-zeynep-berahan.shinyapps.io/GroupAssignment2.html) is the second part of our group assignment.
