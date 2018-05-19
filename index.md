@@ -8,4 +8,4 @@
 
 ## Assignment 3 (May 14)
 
-[Here](https://deniz-tayfun-zeynep-berahan.shinyapps.io/GroupAssignment2.html) is the second part of our group assignment.
+[Here](https://boun-etm58d.github.io/gpj-deniz-zeynep-tayfun/GroupAssignment2.html) is the second part of our group assignment.
