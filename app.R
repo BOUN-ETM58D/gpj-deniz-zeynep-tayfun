@@ -38,10 +38,10 @@ ui <- fluidPage(
       ) ,
       
       selectInput("select", label = h3("Select Company"), 
-                  choices = unique(Pension_funds$pension_fund_company), 
+                  choices = unique(PenSion_funds$pension_fund_company), 
                   selected = 1),
       selectInput("select2", label = h3("Select Company 2"), 
-                  choices = unique(Pension_funds$pension_fund_company), 
+                  choices = unique(PenSion_funds$pension_fund_company), 
                   selected = 1)
     ),
     
